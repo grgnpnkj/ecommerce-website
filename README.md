@@ -1,1 +1,1 @@
-# this is the starting phase of website.
+# This is the starting phase of website.
